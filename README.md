@@ -7,10 +7,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
+- 👨🏻‍💻 &nbsp; Software Developer
 - 🤔 &nbsp; Trying out new technologies and developing software solutions.
 - 🎓 &nbsp; Computer Science Graduate.
-- 💼 &nbsp; Currently Learning Mobile App Development(React Native).
 - 👨🏻‍💻 &nbsp; Mentor and Freelancer 
+- 💼 &nbsp; Currently Learning Mobile App Development(React Native).
+
 
 <br>
 
