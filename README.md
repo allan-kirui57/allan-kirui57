@@ -32,6 +32,7 @@
   ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -40,7 +41,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 📱 &nbsp;
-  ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
 
 <br/>
 
