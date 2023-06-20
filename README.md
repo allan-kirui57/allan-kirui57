@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
 
 <h3> Hey there👋! I'm Allan Kirui.</h2>
-<h2> Currently working as a Software Engineer </h2>
+<h2> Software Engineer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
@@ -42,7 +39,10 @@
 
 
 <br/>
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<br/>
 ## 📈 Stats
 
 ![Princeallan github stats](https://github-readme-stats.vercel.app/api?username=princeallan&hide=["issues"]&show_icons=true&line_height=30)
