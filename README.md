@@ -1,5 +1,5 @@
 
-<h3> Hey there👋! I'm Allan Kirui.</h2>
+<p> Hey there👋! I'm Allan Kirui.</p>
 <h2> Software Engineer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
@@ -40,8 +40,10 @@
 
 <br/>
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+
+  <img src="https://github.com/Princeallan/Princeallan/assets/15101201/e454cce3-0cb3-49ef-8bce-db8871ea3378" height="200" width="100%"/>
 </p>
+
 <br/>
 ## 📈 Stats
 
