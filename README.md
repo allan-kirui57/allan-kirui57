@@ -1,6 +1,7 @@
-
+<p align="center">
+  <img src="https://github.com/Princeallan/Princeallan/assets/15101201/e454cce3-0cb3-49ef-8bce-db8871ea3378" height="200" width="100%"/>
+</p>
 <p> Hey there👋! I'm Allan Kirui.</p>
-<h2> Software Engineer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
@@ -9,13 +10,11 @@
 - 👨🏻‍💻 &nbsp; Mentor and Freelancer 
 - 💼 &nbsp; Currently Learning Mobile App Development(React Native).
 
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-Allan%20Kirui-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-kirui-3bb683b8/)](https://www.linkedin.com/in/allan-kirui-3bb683b8/)
 [![Gmail Badge](https://img.shields.io/badge/-allankirui57@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allankirui57@gmail.com)](mailto:allankirui57@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@PrinceAllan5-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrinceAllan5)](https://twitter.com/PrinceAllan5)
-
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -36,13 +35,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-<br/>
-<p align="center">
-
-  <img src="https://github.com/Princeallan/Princeallan/assets/15101201/e454cce3-0cb3-49ef-8bce-db8871ea3378" height="200" width="100%"/>
-</p>
 
 <br/>
 ## 📈 Stats
