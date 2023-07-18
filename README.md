@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Allan%20Kirui-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-kirui-3bb683b8/)](https://www.linkedin.com/in/allan-kirui-3bb683b8/)
 [![Gmail Badge](https://img.shields.io/badge/-allankirui57@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allankirui57@gmail.com)](mailto:allankirui57@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@PrinceAllan5-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrinceAllan5)](https://twitter.com/PrinceAllan5)
+[![Youtube Badge](https://img.shields.io/badge/-@Pynade-1ca0f1?style=flat-square&labelColor=CD201F&logo=youtube&logoColor=white&link=https://youtube.com/@pynade)](https://pynade.com/@pynade)
 
 ## 🛠 &nbsp;Tech Stack
 
