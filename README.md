@@ -1,4 +1,4 @@
-<h6> Hey there👋! I'm Allan Kirui.</h6>
+<h6> Hey there👋!</h6>
 <p align="center">
   <img src="https://github.com/Princeallan/Princeallan/assets/15101201/e454cce3-0cb3-49ef-8bce-db8871ea3378" height="200" width="100%"/>
 </p>
