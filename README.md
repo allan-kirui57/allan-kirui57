@@ -5,10 +5,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-👨🏻‍💻 &nbsp; Software Developer Trying out new technologies and developing software solutions
-🎓 &nbsp; Computer Science Graduate.
-👨🏻‍💻 &nbsp; Mentor and Freelancer 
-💼 &nbsp; Currently Learning Mobile App Development(React Native).
+- 👨🏻‍💻 &nbsp; Software Developer Trying out new technologies and developing software solutions
+- 🎓 &nbsp; Computer Science Graduate.
+- 👨🏻‍💻 &nbsp; Mentor and Freelancer 
+- 💼 &nbsp; Currently Learning Mobile App Development(React Native).
 
 <br>
 
@@ -19,19 +19,19 @@
 
 ## 🛠 &nbsp;Tech Stack
 
- 💻 &nbsp;
+ - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
- 🕹️ &nbsp;
+ - 🕹️ &nbsp;
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
- 🌐 &nbsp;
+ - 🌐 &nbsp;
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
- 🛢 &nbsp;
+ - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
