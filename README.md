@@ -5,10 +5,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
- 👨🏻‍💻 &nbsp; Software Developer Trying out new technologies and developing software solutions
- 🎓 &nbsp; Computer Science Graduate.
- 👨🏻‍💻 &nbsp; Mentor and Freelancer 
- 💼 &nbsp; Currently Learning Mobile App Development(React Native).
+- 👨🏻‍💻 &nbsp; Software Developer Trying out new technologies and developing software solutions
+- 🎓 &nbsp; Computer Science Graduate.
+- 👨🏻‍💻 &nbsp; Mentor and Freelancer 
+- 💼 &nbsp; Currently Learning Mobile App Development(React Native).
 
 <br>
 
