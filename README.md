@@ -46,7 +46,7 @@
 
 ![Allan Kirui github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=allan-kirui57&hide=["issues"]&show_icons=true&theme=radical&line_height=30)
 
-![Princeallan Languages stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-kirui57&theme=buefy&layout=pie&langs_count=10)
+![Allan Kirui Languages stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allan-kirui57&theme=buefy&layout=donut&langs_count=10)
 
 ----
 Credit: [Allan Kirui](https://github.com/allan-kirui57)
